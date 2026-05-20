@@ -1,63 +1,57 @@
 # Yonghong Zhang
 
-**Carbon Markets · Causal Evidence · Verified AI**
+**Verified AI Agents · Causal Inference · Policy Evaluation**
 
-I am a PhD researcher studying whether carbon markets and climate policies improve
-environmental, financial, and health performance. I also build *execution-grounded*
-AI benchmarks that test whether LLM agents can reliably complete empirical, causal,
-and data-intensive workflows.
+I build execution-grounded AI agents and benchmarks for empirical research, causal
+inference, and policy evaluation.
 
----
+My work focuses on one question:
 
-## Research agenda
+> Can AI agents actually complete reliable research workflows, or do they only produce
+> plausible text?
 
-### 1. Carbon-market performance
-Whether emissions trading systems deliver real-world policy performance:
-- **Environmental performance** — CO₂, SO₂, industrial particulates, spatial spillovers
-- **Financial performance** — firm profitability, investment, innovation, competitiveness
-- **Health performance** — air-quality co-benefits and public-health outcomes
+## Current focus
 
-### 2. Causal evidence and policy evaluation
-My empirical work uses:
+### Verified AI agents and benchmarks
+I work on agent-evaluation environments that test whether AI systems can complete
+robust, executable, and verifiable workflows.
+
+Selected projects:
+
+- **ComtradeBench / OpenEnv**
+  Benchmark environment for robust LLM tool-use under unreliable API conditions.
+
+- **green-comtrade-bench-v2**
+  Deterministic offline benchmark / judge for evaluating agent robustness in
+  Comtrade-style tasks.
+
+- **OfficeQA Agent**
+  Document-grounded retrieval and reasoning agent for public-finance QA.
+
+### Causal and empirical research
+My applied research focuses on carbon-market and climate-policy performance, including
+environmental, financial, and health outcomes.
+
+Methods I use include:
+
 - Difference-in-differences
 - Event studies
-- Spatial DID
+- Spatial policy evaluation
 - Mechanism analysis
-- Robustness and randomization inference
-- Reproducible empirical workflows
+- Robustness and reproducibility checks
 
-### 3. Verified AI for empirical research
-I build benchmarks and environments for evaluating whether AI agents actually
-**execute** reliable workflows, rather than merely producing plausible text.
+### Research workflow tools
+I also build tools for literature management, reproducible research, and AI-assisted
+PhD workflows.
 
----
+## Core idea
 
-## Selected projects
+Reliable research requires more than fluent answers.
 
-- **China ETS Environmental Co-benefits** — Causal evidence on CO₂, SO₂, industrial
-  particulates, spatial spillovers, and R&D mechanisms.
-- **CausalVerify** — An execution-grounded benchmark for LLM causal-inference workflows.
-- **ComtradeBench / OpenEnv** — Agent benchmark environments for reliable tool use under
-  adversarial API conditions.
-- **OfficeQA Agent** — A document-grounded retrieval and reasoning agent for public-finance data.
-- **PhD Knowledge Base Starter** — A Claude Code + Obsidian workflow for citation-safe
-  research knowledge management.
+For both policy evaluation and AI agents, I care about whether a workflow can be:
 
----
-
-## Core question
-
-**Do complex systems actually work?**
-
-- Do carbon markets actually improve environmental, financial, and health performance?
-- Do AI agents actually execute correct empirical and causal workflows?
-- Can we verify these claims with **reproducible evidence**?
-
----
-
-## Links
-
-- Website: *coming soon*
-- Google Scholar: *coming soon*
-- Hugging Face: *coming soon*
-- Email: *available on request*
+- executed
+- checked
+- reproduced
+- interpreted correctly
+- verified against evidence
