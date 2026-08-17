@@ -1,57 +1,53 @@
 # Yonghong Zhang
 
-**Verified AI Agents · Causal Inference · Policy Evaluation**
+**Verified AI Agents · Causal Inference · Climate & Policy Evaluation**
 
-I build execution-grounded AI agents and benchmarks for empirical research, causal
-inference, and policy evaluation.
+I am a PhD candidate at **Universidad Autónoma de Madrid** working at the intersection of reliable AI, causal inference, and empirical policy research.
 
-My work focuses on one question:
+I build **execution-grounded AI agents and benchmarks** for research workflows where correctness must be demonstrated through evidence, code, and reproducible execution—not just plausible text.
 
-> Can AI agents actually complete reliable research workflows, or do they only produce
-> plausible text?
+> **Research question:** Can AI agents complete reliable empirical research workflows, and can we verify when their conclusions are actually supported by data and execution?
 
-## Current focus
+## Research directions
 
-### Verified AI agents and benchmarks
-I work on agent-evaluation environments that test whether AI systems can complete
-robust, executable, and verifiable workflows.
+### Verified AI agents and evaluation
+I study how AI agents behave under realistic research and tool-use conditions, including unreliable APIs, imperfect evaluation, and reproducibility constraints.
 
-Selected projects:
+Selected public projects:
 
-- **ComtradeBench / OpenEnv**
-  Benchmark environment for robust LLM tool-use under unreliable API conditions.
+- **[ComtradeBench / OpenEnv](https://github.com/yonghongzhang-io/comtrade-openenv)** — execution-grounded evaluation of LLM tool use under adversarial and unreliable trade-data API conditions.
+- **[OfficeQA Agent](https://github.com/yonghongzhang-io/purple-agent-officeqa)** — document-grounded retrieval and reasoning agent for public-finance question answering.
+- **[Green Comtrade Bench](https://github.com/yonghongzhang-io/green-comtrade-bench-v2)** — deterministic benchmark and judge infrastructure for agent robustness evaluation.
 
-- **green-comtrade-bench-v2**
-  Deterministic offline benchmark / judge for evaluating agent robustness in
-  Comtrade-style tasks.
+### Causal inference and empirical research
+My methodological work focuses on reliable causal analysis and AI-assisted empirical workflows, especially:
 
-- **OfficeQA Agent**
-  Document-grounded retrieval and reasoning agent for public-finance QA.
+- difference-in-differences and event studies
+- policy evaluation
+- robustness and reproducibility
+- execution-grounded causal reasoning
+- auditing and repairing empirical workflows
 
-### Causal and empirical research
-My applied research focuses on carbon-market and climate-policy performance, including
-environmental, financial, and health outcomes.
+### Climate, ESG, and policy applications
+I apply causal and AI methods to climate-policy and sustainability questions.
 
-Methods I use include:
+- **[GLEAM](https://github.com/yonghongzhang-io/gleam)** — multilingual ESG-perception research built around an auditable agentic LLM pipeline.
+- **[Climate Claim Classifier](https://github.com/yonghongzhang-io/climate-claim-classifier)** — structured and auditable LLM/NLP classification of climate-related claims.
 
-- Difference-in-differences
-- Event studies
-- Spatial policy evaluation
-- Mechanism analysis
-- Robustness and reproducibility checks
+## Research tooling
 
-### Research workflow tools
-I also build tools for literature management, reproducible research, and AI-assisted
-PhD workflows.
+- **[PhD Knowledge Base Starter](https://github.com/yonghongzhang-io/phd_kb_starter)** — a one-command LLM-powered research knowledge-base workflow for Claude Code + Obsidian.
 
-## Core idea
+## What I care about
 
-Reliable research requires more than fluent answers.
+Reliable research requires more than fluent answers. I care about whether a workflow can be:
 
-For both policy evaluation and AI agents, I care about whether a workflow can be:
+- **executed** against real tools and data
+- **checked** against explicit assumptions and evidence
+- **reproduced** by another researcher
+- **interpreted** correctly
+- **verified** before scientific conclusions are trusted
 
-- executed
-- checked
-- reproduced
-- interpreted correctly
-- verified against evidence
+---
+
+**Research identity:** Verified AI for empirical research — causal inference, agent evaluation, and climate/policy applications.
