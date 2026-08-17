@@ -22,8 +22,8 @@ I work at the intersection of **reliable AI, causal inference, and empirical pol
 ### 🔬 [ComtradeBench / OpenEnv](https://github.com/yonghongzhang-io/comtrade-openenv)
 An execution-grounded benchmark for evaluating reliable LLM tool use under adversarial and unreliable trade-data API conditions.
 
-### 🌍 [GLEAM](https://github.com/yonghongzhang-io/gleam)
-A multilingual ESG-perception research project built around an auditable agentic LLM pipeline.
+### 🌍 GLEAM *(work in progress)*
+A multilingual ESG-perception research project built around an auditable agentic LLM pipeline. The research repository is currently private while the project is under development.
 
 ### 🤖 [OfficeQA Agent](https://github.com/yonghongzhang-io/purple-agent-officeqa)
 A document-grounded agent for retrieval and reasoning over U.S. Treasury Bulletin data.
