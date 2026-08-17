@@ -1,53 +1,55 @@
 # Yonghong Zhang
 
-**Verified AI Agents · Causal Inference · Climate & Policy Evaluation**
+**PhD Candidate in Economics @ Universidad Autónoma de Madrid**  
+**Verified AI for Empirical Research**
 
-I am a PhD candidate at **Universidad Autónoma de Madrid** working at the intersection of reliable AI, causal inference, and empirical policy research.
+*Causal inference · Agent evaluation · Climate & policy applications*
 
-I build **execution-grounded AI agents and benchmarks** for research workflows where correctness must be demonstrated through evidence, code, and reproducible execution—not just plausible text.
+I work at the intersection of **reliable AI, causal inference, and empirical policy research**. I build execution-grounded AI agents and benchmarks for research workflows where conclusions should be supported by **evidence, code, and reproducible execution** — not just plausible text.
 
-> **Research question:** Can AI agents complete reliable empirical research workflows, and can we verify when their conclusions are actually supported by data and execution?
+> **Core question:** Can AI agents complete reliable empirical research workflows, and can we verify when their scientific conclusions are actually supported by data and execution?
 
-## Research directions
+## Research
 
-### Verified AI agents and evaluation
-I study how AI agents behave under realistic research and tool-use conditions, including unreliable APIs, imperfect evaluation, and reproducibility constraints.
+| Direction | Focus |
+|---|---|
+| **Verified AI & Agent Evaluation** | Execution-grounded benchmarks, tool use, evaluator validity, robustness, reproducibility |
+| **Causal Inference** | Difference-in-differences, event studies, policy evaluation, causal workflow auditing |
+| **Climate, ESG & Policy** | Carbon markets, climate policy, ESG measurement, auditable AI for empirical research |
 
-Selected public projects:
+## Featured Projects
 
-- **[ComtradeBench / OpenEnv](https://github.com/yonghongzhang-io/comtrade-openenv)** — execution-grounded evaluation of LLM tool use under adversarial and unreliable trade-data API conditions.
-- **[OfficeQA Agent](https://github.com/yonghongzhang-io/purple-agent-officeqa)** — document-grounded retrieval and reasoning agent for public-finance question answering.
-- **[Green Comtrade Bench](https://github.com/yonghongzhang-io/green-comtrade-bench-v2)** — deterministic benchmark and judge infrastructure for agent robustness evaluation.
+### 🔬 [ComtradeBench / OpenEnv](https://github.com/yonghongzhang-io/comtrade-openenv)
+An execution-grounded benchmark for evaluating reliable LLM tool use under adversarial and unreliable trade-data API conditions.
 
-### Causal inference and empirical research
-My methodological work focuses on reliable causal analysis and AI-assisted empirical workflows, especially:
+### 🌍 [GLEAM](https://github.com/yonghongzhang-io/gleam)
+A multilingual ESG-perception research project built around an auditable agentic LLM pipeline.
 
-- difference-in-differences and event studies
-- policy evaluation
-- robustness and reproducibility
-- execution-grounded causal reasoning
-- auditing and repairing empirical workflows
+### 🤖 [OfficeQA Agent](https://github.com/yonghongzhang-io/purple-agent-officeqa)
+A document-grounded agent for retrieval and reasoning over U.S. Treasury Bulletin data.
 
-### Climate, ESG, and policy applications
-I apply causal and AI methods to climate-policy and sustainability questions.
+### 🌱 [Climate Claim Classifier](https://github.com/yonghongzhang-io/climate-claim-classifier)
+A public research demo for structured and auditable classification of climate-related claims.
 
-- **[GLEAM](https://github.com/yonghongzhang-io/gleam)** — multilingual ESG-perception research built around an auditable agentic LLM pipeline.
-- **[Climate Claim Classifier](https://github.com/yonghongzhang-io/climate-claim-classifier)** — structured and auditable LLM/NLP classification of climate-related claims.
+### 🛠 [PhD Knowledge Base Starter](https://github.com/yonghongzhang-io/phd_kb_starter)
+A one-command LLM-powered research knowledge-base workflow for Claude Code + Obsidian.
 
-## Research tooling
+## Supporting Benchmark Infrastructure
 
-- **[PhD Knowledge Base Starter](https://github.com/yonghongzhang-io/phd_kb_starter)** — a one-command LLM-powered research knowledge-base workflow for Claude Code + Obsidian.
+- **[Green Comtrade Bench](https://github.com/yonghongzhang-io/green-comtrade-bench-v2)** — deterministic benchmark and judge infrastructure supporting the ComtradeBench research line.
+- **[Purple Comtrade Baseline](https://github.com/yonghongzhang-io/purple-comtrade-baseline-v2)** — deterministic reference agent used to validate the benchmark contract.
+- **[AgentBeats Leaderboard](https://github.com/yonghongzhang-io/agentbeats-leaderboard-v2)** — submission and evaluation infrastructure for the earlier AgentBeats benchmark configuration.
 
-## What I care about
+## Research Principles
 
-Reliable research requires more than fluent answers. I care about whether a workflow can be:
+I care about whether an empirical or AI-assisted research workflow can be:
 
 - **executed** against real tools and data
 - **checked** against explicit assumptions and evidence
 - **reproduced** by another researcher
-- **interpreted** correctly
-- **verified** before scientific conclusions are trusted
+- **audited** when something goes wrong
+- **interpreted** correctly before scientific conclusions are trusted
 
 ---
 
-**Research identity:** Verified AI for empirical research — causal inference, agent evaluation, and climate/policy applications.
+**Research identity:** *Verified AI for empirical research — causal inference, agent evaluation, and climate/policy applications.*
