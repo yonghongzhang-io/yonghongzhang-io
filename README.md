@@ -5,6 +5,8 @@
 
 *Causal inference · Agent evaluation · Climate & policy applications*
 
+**Homepage: [yonghongzhang-io.github.io](https://yonghongzhang-io.github.io/)** — papers, awards, CV, and contact.
+
 I work at the intersection of **reliable AI, causal inference, and empirical policy research**. I build execution-grounded AI agents and benchmarks for research workflows where conclusions should be supported by **evidence, code, and reproducible execution** — not just plausible text.
 
 > **Core question:** Can AI agents complete reliable empirical research workflows, and can we verify when their scientific conclusions are actually supported by data and execution?
