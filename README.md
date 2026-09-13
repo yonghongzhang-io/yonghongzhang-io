@@ -5,7 +5,8 @@
 
 *Causal inference · Agent evaluation · Climate & policy applications*
 
-**Homepage: [yonghongzhang-io.github.io](https://yonghongzhang-io.github.io/)** — papers, awards, CV, and contact.
+**Homepage: [yonghongzhang-io.github.io](https://yonghongzhang-io.github.io/)** — papers, awards, CV, and contact.  
+**[Google Scholar](https://scholar.google.com/citations?user=cxYmFL0AAAAJ)** · **[LinkedIn](https://www.linkedin.com/in/yonghong-zhang)**
 
 I work at the intersection of **reliable AI, causal inference, and empirical policy research**. I build execution-grounded AI agents and benchmarks for research workflows where conclusions should be supported by **evidence, code, and reproducible execution** — not just plausible text.
 
