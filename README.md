@@ -1,4 +1,4 @@
-# Yonghong Zhang
+# Hi there, I'm Yonghong Zhang 👋
 
 PhD candidate in Economics & Business at Universidad Autónoma de Madrid.
 
